@@ -5,7 +5,7 @@ import {AppBar , Toolbar,Box,styled,Typography}  from '@mui/material';
 
 //components
 import Search  from './Search';
-import CustomButtons from '../CustomButtons';
+import CustomButtons from './CustomButtons';
 
 
 //AppBar is a material UI component which gives us a Navigation bar
